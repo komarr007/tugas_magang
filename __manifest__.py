@@ -24,7 +24,7 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-        'views/daily_checker_views.xml',
+        'views/sale_order_inherit_views.xml',
         # 'views/note_page_views.xml',
         # 'views/daily_checker_views.xml',
         # 'views/yt_video_download_views.xml',
